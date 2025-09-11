@@ -1,7 +1,5 @@
 # 👋 Hello, I'm utyara3
 
----
-
 ## 🚀 I plan to become a Data Scientist / ML Engineer
 
 <div align="center">
@@ -10,7 +8,6 @@
 
 </div>
 
----
 
 ### 🗺️ My current Data Scientist roadmap:
 
