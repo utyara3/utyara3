@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+<!--
 ### 🗺️ My current Data Scientist roadmap:
 
 1.  **Fundamentals** ![Progress](https://img.shields.io/badge/IN+PROGRESS-blue?style=flat-square)
@@ -22,6 +22,7 @@
 9.  **Data Munging** ![Not Started](https://img.shields.io/badge/NOT+STARTED-lightgrey?style=flat-square)
 
 ---
+-->
 
 ### 👨‍💻 Current Skill Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
