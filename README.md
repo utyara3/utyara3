@@ -34,7 +34,7 @@
 <div align="center">
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=utyara3&show_icons=true&theme=algolia)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utyara3&layout=compact&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utyara3&layout=compact&theme=algolia&hide=html,css,javascript)
 
 </div>
 
