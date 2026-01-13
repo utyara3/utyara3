@@ -32,16 +32,29 @@
 ### 📊 Activity
 
 <div align="center">
-
+<!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=utyara3&show_icons=true&theme=algolia)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utyara3&layout=compact&theme=algolia&hide=html,css,javascript)
+-->
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utyara3&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utyara3&theme=react-dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utyara3&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utyara3&theme=tokyonight)
 
+</div>
+
+<div align="center">
+<!--
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utyara3&theme=react-dark)
+-->
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utyara3&theme=tokyonight)
+  
 </div>
 
 ---
@@ -49,7 +62,7 @@
 ### 🤝 Contact me:
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/utyara3)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utyara3.geek@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/utyara3)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utyara3.geek@gmail.com)
   
 </div>
