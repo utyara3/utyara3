@@ -1,9 +1,9 @@
 # 👋 Hello, I'm utyara3
 
-## 🚀 I plan to become a Data Scientist / ML Engineer
+## 🚀 I plan to become a Backend Developer
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=22F90F&center=true&vCenter=true&width=435&lines=Data+Science;ML+Engineer;utyara3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=22F90F&center=true&vCenter=true&width=435&lines=Backend;Python;utyara3)](https://git.io/typing-svg)
 
 </div>
 
