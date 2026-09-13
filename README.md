@@ -83,6 +83,7 @@
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utyara3&theme=tokyonight)
   
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=utyara3)
 </div>
 
 ---
